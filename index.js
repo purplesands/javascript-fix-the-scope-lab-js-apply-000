@@ -12,6 +12,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
+  var n = 400
   return n + two
 
   // Feel free to move things around!
