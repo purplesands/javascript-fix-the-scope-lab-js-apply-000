@@ -31,5 +31,6 @@ var funkyFunction = function() {
 
 
 var theFunk = function() {
-  console.log('funkyFunction')
+  return funkyFunction
+  return "FUNKY!"
 }
